@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align=center>
   <h4 align="center">📚 Technology Stack 📚</h4>
   <p align="center">
