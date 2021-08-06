@@ -21,5 +21,6 @@
   <img src="https://img.shields.io/badge/-EC2-ff69b4"/>&nbsp
   <img src="https://img.shields.io/badge/-RDS-red"/>&nbsp
   <img src="https://img.shields.io/badge/-S3-inactive"/>&nbsp
+    <img src="https://img.shields.io/badge/-jenkins-brightgreen"/>
  </p>
 </div>
