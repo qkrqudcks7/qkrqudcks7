@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/-query--dsl-brightgreen"/>
  <br>
   <img src="https://img.shields.io/badge/-JavaScript-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-jquery-important"/>&nbsp
   <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-vuex-green"/>&nbsp
   <img src="https://img.shields.io/badge/-webpack-blueviolet"/>&nbsp 
