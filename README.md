@@ -1,9 +1,12 @@
 <div align=center>
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrqudcks7)](https://solved.ac/qkrqudcks7/)
+  
+  <hr>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrqudcks7&show_icons=true&theme=dark)](https://github.com/qkrqudcks7/github-readme-stats)
   
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrqudcks7)](https://solved.ac/qkrqudcks7/)
+  <hr>
   
   <h4 align="center">📚 Technology Stack 📚</h4>
   <p align="center">
