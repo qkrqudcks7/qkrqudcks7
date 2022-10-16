@@ -18,14 +18,7 @@
  <br>
   <img src="https://img.shields.io/badge/-JavaScript-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-vuex-green"/>&nbsp
  <br>
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Postgresql-critical"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-EC2-ff69b4"/>&nbsp
-  <img src="https://img.shields.io/badge/-RDS-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-S3-inactive"/>&nbsp
-    <img src="https://img.shields.io/badge/-jenkins-brightgreen"/>
  </p>
 </div>
