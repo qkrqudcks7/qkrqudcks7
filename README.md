@@ -12,9 +12,8 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-blue"/>
+  <img src="https://img.shields.io/badge/-GO-blue"/>
  <br>
   <img src="https://img.shields.io/badge/-JavaScript-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
